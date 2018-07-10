@@ -1,0 +1,14 @@
+{
+  "Levels": [
+    {
+      "Priority": 0,
+      "Emoji": 10071,
+      "Name": "Fatal"
+    },
+    {
+      "Priority": 1,
+      "Emoji": 9888,
+      "Name": "Warn"
+    }
+  ]
+}
